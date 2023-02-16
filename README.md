@@ -7,6 +7,7 @@
 - Create components @Entity / @RestController / @Repository
 - Create application.properties
 - Build
+- Start Docker(springbootapp, postgresDB)
 - Test app using curls 
 
 ## BUILD the application 
